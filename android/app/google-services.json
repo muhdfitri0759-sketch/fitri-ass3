@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "252278755172",
+    "firebase_url": "https://smart-room-70ea4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-room-70ea4",
+    "storage_bucket": "smart-room-70ea4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252278755172:android:a726056b7fc42c3379f471",
+        "android_client_info": {
+          "package_name": "com.example.smart_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa02FAgtc-91aVenSmO9Cr4qLrIG2kkfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252278755172:android:e9633f21b0f916e679f471",
+        "android_client_info": {
+          "package_name": "com.fitri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa02FAgtc-91aVenSmO9Cr4qLrIG2kkfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
